@@ -1,0 +1,6 @@
+{
+  "name": "Góc Lượng Giác - Toán 11",
+  "description": "Ứng dụng học tập và giảng dạy tương tác bài Góc lượng giác (Toán 11 - Kết nối tri thức với cuộc sống) với đường tròn lượng giác trực quan, mô phỏng quay nhiều vòng, góc âm dương, so sánh góc và bài tập tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
